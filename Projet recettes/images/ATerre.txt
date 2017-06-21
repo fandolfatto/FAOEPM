@@ -1,0 +1,8 @@
+Araignee
+Chat
+Chien
+Cobra
+Coucou
+Perroquet
+Rat
+Test

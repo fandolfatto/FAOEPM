@@ -1,0 +1,13 @@
+span.contenu1 {
+	float : left;
+	width:50%;
+}
+span.titre {
+	float : left;
+	width:50%;
+	font-weight: bold;
+}
+
+.image {
+	width:33%;
+}
